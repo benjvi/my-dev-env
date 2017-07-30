@@ -1,5 +1,5 @@
 # Path to your dotfiles installation.
-export DOTFILES=$HOME/.dotfiles
+export DOTFILES=$HOME/.my-dev-env
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
