@@ -1,6 +1,6 @@
 # Compiled source #
 ###################
-*.com
+# *.com  - this breaks go vendoring with com in directory names!
 *.class
 *.dll
 *.exe
